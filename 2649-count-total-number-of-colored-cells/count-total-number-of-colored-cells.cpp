@@ -16,10 +16,10 @@ public:
         //     while(min<=n){
 
         //     }
-
+   
         // }
         
-        return 2LL*n*(n-1)+1;
+        return (long long)2*n*(n-1)+1;
         
     }
 };
